@@ -5,7 +5,7 @@ The Data Science for Developing Scholars in Down Syndrome Research (DS3) course 
 <!-- Any other info/links here? -->
 
 
-Getting started with R and RStudio  
+## Getting started with R and RStudio  
 GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2025/installing_updating_R-RStudio)
 
 Alternatives to running locally:  
