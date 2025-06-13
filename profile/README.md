@@ -10,8 +10,11 @@ GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2025/i
 
 Alternatives to running locally:  
 [Posit Cloud](https://posit.cloud/)  
-[Cavatica](https://www.cavatica.org/)
+[Cavatica](https://www.cavatica.org/)  
 
 
+## Introduction to the Tidyverse  
+GitHub repository: [Rproject_template](https://github.com/DS3-2025/Rproject_template)  
+GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_exercise)  
 
 
