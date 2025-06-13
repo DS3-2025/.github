@@ -13,7 +13,7 @@ Alternatives to running locally:
 [Cavatica](https://www.cavatica.org/)  
 
 
-## Introduction to the Tidyverse  
+## Introduction to the [Tidyverse](https://tidyverse.tidyverse.org/)  
 GitHub repository: [Rproject_template](https://github.com/DS3-2025/Rproject_template)  
 GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_exercise)  
 
