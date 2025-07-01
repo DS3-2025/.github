@@ -20,7 +20,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_ex
 
 
 # Morning sessions: Short Read Sequencing Workshop
-Website: https://biodatasci.colorado.edu/shortread/
+Website: https://biodatasci.colorado.edu/shortread/  
 GitHub: [Dowell-Lab/srworkshop](https://github.com/Dowell-Lab/srworkshop)
 
 
@@ -75,7 +75,7 @@ Applications of simple machine learning methods to predict outcomes leveraging H
 GitHub repository: [PredictiveModels](https://github.com/DS3-2025/PredictiveModels)
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
-Instructor: Matthew Galbraith  
+Instructor: Matthew Galbraith and Velsera   
 A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2025/R_analysis_CAVATICA)
