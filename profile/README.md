@@ -54,7 +54,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_ex
 Instructor: Matthew Galbraith  
 DESCRIPTION  
 <!-- Slides: Add links to slides for each day? -->
-GitHub repository: 
+GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/linear_regression_exercise)
 
 ## Day 6: Advanced Data Visualization and Analysis in R
 Instructor: Matthew Galbraith  
