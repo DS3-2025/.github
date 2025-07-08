@@ -25,17 +25,17 @@ GitHub: [Dowell-Lab/srworkshop](https://github.com/Dowell-Lab/srworkshop)
 
 
 # Afternoon sessions
-Github: [DS3-2025](https://github.com/DS3-2025)
+Github (this site): [DS3-2025](https://github.com/DS3-2025)
 
 ## Day 1: The Human Trisome Project 
 Instructor: Matthew Galbraith  
 An overview of the Human Trisome Project and the journey from data to discovery.  
-<!-- Slides: Add links to slides for each day? -->
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day1_HTP_Data_story_DS3_2025_Galbraith.pdf)  
 
 ## Day 2: Omics and Data Science Concepts
 Instructor: Matthew Galbraith  
 An introduction to important concepts in omics and best practices in data science.  
-<!-- Slides: Add links to slides for each day? -->
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day2_Data_Science_Omics_concepts_DS3_2025_Galbraith.pdf)  
 
 ## Day 3: Reproducible data analysis using R and RStudio
 Instructor: Matthew Galbraith  
@@ -48,7 +48,7 @@ Instructor: Matthew Galbraith
 DESCRIPTION  
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_exercise)
-<!-- ggplot exercise? -->
+<!-- ggplot exercise? or start of HTP LINEAR REGRESSION? -->
 
 ## Day 5: Hypothesis Testing in R
 Instructor: Matthew Galbraith  
@@ -58,12 +58,14 @@ GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/line
 
 ## Day 6: Advanced Data Visualization and Analysis in R
 Instructor: Matthew Galbraith  
+<!-- revisit results plots + DESEq results + UMAP issues? -->
 DESCRIPTION  
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: 
 
 ## Day 7: Advanced Data Visualization and Analysis in R
 Instructors: Matthew Galbraith and Jim Costello  
+<!-- PCA w/Jim + room for anything else? -->
 DESCRIPTION  
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: 
