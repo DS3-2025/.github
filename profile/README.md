@@ -45,7 +45,7 @@ GitHub repository: [Rproject_template](https://github.com/DS3-2025/Rproject_temp
 
 ## Day 4: Data Cleaning and Exploratory Data Analysis
 Instructor: Matthew Galbraith  
-DESCRIPTION  
+Exercises in data cleaning/wrangling in R using tidyverse principles and tools.    
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_exercise)
 <!-- ggplot exercise? or start of HTP LINEAR REGRESSION? -->
