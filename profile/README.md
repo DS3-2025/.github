@@ -40,7 +40,7 @@ An introduction to important concepts in omics and best practices in data scienc
 ## Day 3: Reproducible data analysis using R and RStudio
 Instructor: Matthew Galbraith  
 A guide to conducting reproducible data analysis in R using RStudio and tidy principles.  
-<!-- Slides: Add links to slides for each day? -->
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day3_Reproducible_Analysis_R_DS3_2025_Galbraith.pdf)  
 GitHub repository: [Rproject_template](https://github.com/DS3-2025/Rproject_template)
 
 ## Day 4: Data Cleaning and Exploratory Data Analysis
