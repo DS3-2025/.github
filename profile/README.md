@@ -49,11 +49,12 @@ Exercises in data cleaning/wrangling in R using tidyverse principles and tools.
 GitHub repository: [intro_exploratory_data_analysis](https://github.com/DS3-2025/intro_exploratory_data_analysis)  
 GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_exercise)
 
-## Day 5: Hypothesis Testing in R
+## Day 5: Intro to Linear Regression and Hypothesis Testing in R
 Instructor: Matthew Galbraith  
-Introduction to hypothesis testing in R  
+An introduction to statistical modeling and testing in R  
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/linear_regression_exercise)
+GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
 
 ## Day 6: Advanced Data Visualization and Analysis in R
 Instructor: Matthew Galbraith  
