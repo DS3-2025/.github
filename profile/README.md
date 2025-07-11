@@ -53,7 +53,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_ex
 Instructor: Matthew Galbraith  
 An introduction to statistical modeling and testing in R  
 <!-- Slides: Add links to slides for each day? -->
-GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/linear_regression_exercise)
+GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/linear_regression_exercise)  
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
 
 ## Day 6: Advanced Data Visualization and Analysis in R
