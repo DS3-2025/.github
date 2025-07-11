@@ -52,7 +52,7 @@ GitHub repository: [tidy_data_exercise](https://github.com/DS3-2025/tidy_data_ex
 ## Day 5: Intro to Linear Regression and Hypothesis Testing in R
 Instructor: Matthew Galbraith  
 An introduction to statistical modeling and testing in R  
-<!-- Slides: Add links to slides for each day? -->
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day5_Intro_Linear_Regression_Hypothesis_Testing_DS3_2025_Galbraith.pdf)  
 GitHub repository: [linear_regression_exercise](https://github.com/DS3-2025/linear_regression_exercise)  
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
 
