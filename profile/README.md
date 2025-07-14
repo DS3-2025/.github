@@ -61,7 +61,9 @@ Instructor: Matthew Galbraith
 <!-- revisit results plots + DESEq results + UMAP issues? -->
 DESCRIPTION  
 <!-- Slides: Add links to slides for each day? -->
-GitHub repository: 
+GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
+GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2025/HTP_DESeq2_analysis)  
+GitHub repository: [HTP_single_cell_dataviz_mass_cytometry](https://github.com/DS3-2025/HTP_single_cell_dataviz_mass_cytometry)  
 
 ## Day 7: Advanced Data Visualization and Analysis in R
 Instructor: Jim Costello  
