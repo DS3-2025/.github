@@ -58,8 +58,7 @@ GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/H
 
 ## Day 6: Advanced Data Visualization and Analysis in R
 Instructor: Matthew Galbraith  
-<!-- revisit results plots + DESEq results + UMAP issues? -->
-DESCRIPTION  
+Examples and discussion of effective data visualization using ggplot in R.   
 <!-- Slides: Add links to slides for each day? -->
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2025/HTP_DESeq2_analysis)  
