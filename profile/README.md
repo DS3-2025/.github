@@ -64,11 +64,10 @@ DESCRIPTION
 GitHub repository: 
 
 ## Day 7: Advanced Data Visualization and Analysis in R
-Instructors: Matthew Galbraith and Jim Costello  
-<!-- PCA w/Jim + room for anything else? -->
-DESCRIPTION  
+Instructor: Jim Costello  
+Applications of simple machine learning methods to predict outcomes leveraging HTP datasets.    
 <!-- Slides: Add links to slides for each day? -->
-GitHub repository: 
+GitHub repository: [Visualize_Cluster_HTP](https://github.com/DS3-2025/Visualize_Cluster_HTP)  
 
 ## Day 8: Supervised Machine Learning with HTP examples
 Instructor: Jim Costello   
