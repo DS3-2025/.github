@@ -59,7 +59,7 @@ GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/H
 ## Day 6: Advanced Data Visualization and Analysis in R
 Instructor: Matthew Galbraith  
 Examples and discussion of effective data visualization using ggplot in R.   
-<!-- Slides: Add links to slides for each day? -->
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day6_Advanced_Data_Viz_DS3_2025_Galbraith.pdf)  
 GitHub repository: [HTP_linear_regression_example](https://github.com/DS3-2025/HTP_linear_regression_example)  
 GitHub repository: [HTP_DESeq2_analysis](https://github.com/DS3-2025/HTP_DESeq2_analysis)  
 GitHub repository: [HTP_single_cell_dataviz_mass_cytometry](https://github.com/DS3-2025/HTP_single_cell_dataviz_mass_cytometry)  
