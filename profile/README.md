@@ -78,9 +78,8 @@ GitHub repository: [PredictiveModels](https://github.com/DS3-2025/PredictiveMode
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
 Instructor: Matthew Galbraith and Velsera   
-A guide to the INCLUDE Data Hub and how to transfer data to the Cavatica platform for analysis. 
-<!-- Slides: Add links to slides for each day? -->
-GitHub repository: [R_analysis_CAVATICA](https://github.com/DS3-2025/R_analysis_CAVATICA)
+A guide to locating data in the INCLUDE Data Hub and transfering to the Cavatica platform for analysis. 
+GitHub repository: [HTP_linear_regression_Cavatica](https://github.com/DS3-2025/HTP_linear_regression_Cavatica)
 
 
 
