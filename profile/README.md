@@ -11,6 +11,7 @@ GitHub repository: [installing_updating_R-RStudio](https://github.com/DS3-2025/i
 Alternatives to running locally:  
 [Posit Cloud](https://posit.cloud/)  
 [Cavatica](https://www.cavatica.org/)  
+Apply for [INCLUDE Cloud Credits](https://help.includedcc.org/docs/include-cloud-credits-pilot-program)  
 
 
 ## Introduction to the [Tidyverse](https://tidyverse.tidyverse.org/)  
@@ -78,7 +79,9 @@ GitHub repository: [PredictiveModels](https://github.com/DS3-2025/PredictiveMode
 
 ## Day 9: Analysis of INCLUDE data with R using Cavatica
 Instructor: Matthew Galbraith and Velsera   
+[Slides](https://github.com/DS3-2025/slides/blob/main/Day9_Velsera_Cavatica_slides.pdf)  
 A guide to locating data in the INCLUDE Data Hub and transfering to the Cavatica platform for analysis.  
+Apply for [INCLUDE Cloud Credits](https://help.includedcc.org/docs/include-cloud-credits-pilot-program)  
 GitHub repository: [HTP_linear_regression_Cavatica](https://github.com/DS3-2025/HTP_linear_regression_Cavatica)
 
 
